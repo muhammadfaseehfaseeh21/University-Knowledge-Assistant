@@ -291,7 +291,8 @@ Content:
     context = "\n\n".join(context_parts)
 
     prompt = f"""
-You are a University Knowledge Assistant.
+Some multiline prompt template here...
+"""
 
 Answer the student's question using ONLY the
 information provided in the university documents below.
